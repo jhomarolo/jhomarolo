@@ -6,6 +6,7 @@
 
 
 - 🔭 I’m currently working at @vortxbr
+- 📃 I’m currently blogging at codigosimples.net
 - 🌱 I’m currently learning @nodejs
 - 👯 I’m looking to collaborate on @herbsjs
 - 💬 Ask me about @nosql, @dotnet, @architecture
