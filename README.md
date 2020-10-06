@@ -8,7 +8,7 @@
 - 🔭 I’m currently working at @vortxbr
 - 📃 I’m currently blogging at codigosimples.net
 - 🌱 I’m currently learning @nodejs
-- 👯 I’m looking to collaborate on @herbsjs
+- 👯 I’m looking to collaborate on @herbsjs and @nosqlbr
 - 💬 Ask me about @nosql, @dotnet, @architecture
 - 📫 How to reach me: codigosimples.net
 - 😄 Pronouns: di-oh-nah-tan
