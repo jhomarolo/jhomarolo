@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working at [Vórtx](http://vortx.com.br)
-- 📃 I’m currently blogging at codigosimples.net
+- 📃 I’m currently blogging at [Código Simples](http://codigosimples.net)
 - 🌱 I’m currently learning management 3.0
 - 👯 I’m looking to collaborate on [herbsjs](herbsjs.org) and @nosqlbr
 - 💬 Ask me about @nosql, @dotnet, @architecture
