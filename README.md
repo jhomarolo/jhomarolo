@@ -14,3 +14,10 @@
 - 📫 How to reach me: codigosimples.net
 - 😄 Pronouns: di-oh-nah-tan
 - ⚡ Fun fact: just a nerd and food lover guy
+
+<p align="justify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhomarolo&show_icons=true&count_private=true&theme=algolia" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhomarolo&layout=compact&theme=algolia" />
+</p>
