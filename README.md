@@ -16,5 +16,5 @@
 - ⚡ Fun fact: just a nerd and food lover guy
 
 <p align="justify">
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=jhomarolo&show_icons=true&count_private=true&theme=algolia" />  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhomarolo&layout=compact&theme=algolia" />
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=jhomarolo&show_icons=true&count_private=true&theme=algolia" />       &nbsp;  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhomarolo&layout=compact&theme=algolia" />
 </p>
